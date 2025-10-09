@@ -36,7 +36,7 @@ Example:
 
 2. **Clear context** - `/clear`
 
-3. **Plan** - `/plan [ticket-file]`
+3. **Plan** - `/plan [research-file]`
    - Create implementation plan based on research or ticket
    - Iterate on plan, ask questions, give suggestions
    - Plan is saved to `thoughts/shared/plans/`
