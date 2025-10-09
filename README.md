@@ -9,7 +9,7 @@ Research the codebase by spawning parallel agents to analyze code, thoughts, and
 
 Examples:
 - `/research what is causing this bug`
-- `/research adding the feaure documents here ./feature.md`
+- `/research adding the feaure documented here ./feature.md`
 
 ### Plan
 Create detailed implementation plans through interactive iteration with structured phases and success criteria from a research file.
