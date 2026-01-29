@@ -3,11 +3,12 @@
 ## Commands
 
 ### Research
-Research the codebase by spawning parallel agents to analyze code, thoughts, and patterns resulting in a research file on /thoughts/research/...
+Research the codebase and idea by spawning parallel agents to analyze code, thoughts, and patterns resulting in a research file on /thoughts/research/...
 
 `/research [prompt]`
 
 Examples:
+- `/research creating a new web app that does ...`
 - `/research what is causing this bug`
 - `/research adding the feaure documented here ./feature.md`
 
