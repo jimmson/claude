@@ -48,3 +48,10 @@ Example:
    - Execute plan phase by phase
    - Each phase includes automated and manual verification
    - Clear context between phases if needed
+
+## Skills
+
+### Improve Codebase Architecture
+Surface architectural friction and propose deepening opportunities — refactors that turn shallow modules into deep ones, for testability and AI-navigability. Explores the codebase, presents numbered candidates, then grills the chosen one down to an interface.
+
+`skills/improve-codebase-architecture/`
